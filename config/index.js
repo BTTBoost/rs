@@ -85,6 +85,24 @@ const siteMetadata = {
         },
       ],
     },
+    {
+      locale: "ja",
+      title: "米国株式市場人気の話し合います",
+      shortTitle: "米国株",
+      description: "人気の米国株式市場の話し合いまを日本語で閲覧",
+      keywords: ["buzzing", "米国株式市場"],
+      menuLinks: [
+        // {
+        // name: "每週精選",
+        // url: "/zh-Hant/issues",
+        // },
+        // {
+        //   name: "RSS",
+        //   url: "/zh-Hant/rss.xml",
+        //   prefetch: false,
+        // },
+      ],
+    }
   ],
 };
 

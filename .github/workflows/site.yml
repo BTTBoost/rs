@@ -11,12 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     name: Build
     steps:
-      - name:  Check is building
+      - name: Check is building
         uses: actions/github-script@v4
         id: shouldBuild
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
-          script: | 
+          script: |
             const runed = await github.actions.listWorkflowRuns({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -29,30 +29,29 @@ jobs:
       - name: Checkout Repo
         if: steps.shouldBuild.outputs.result=='1'
         uses: actions/checkout@v2
-      - name: Get yarn cache directory
-        id: yarn-cache-dir
-        if: steps.shouldBuild.outputs.result=='1'
-        run: echo "::set-output name=dir::$(yarn cache dir)"
-      - name: Yarn cache
-        if: steps.shouldBuild.outputs.result=='1'
-        uses: actions/cache@v2
+      - uses: actions/setup-node@v2-beta
         with:
-          path: ${{ steps.yarn-cache-dir.outputs.dir }}
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          node-version: "14"
+      - run: npm i npm -g
+      - run: npm version
+      - uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
-            ${{ runner.os }}-yarn-
-      - name: Yarn install
+            ${{ runner.os }}-node-
+      - name: install
+        run: "npm i"
         if: steps.shouldBuild.outputs.result=='1'
-        run: "yarn --pure-lockfile"
       - name: Build
         if: steps.shouldBuild.outputs.result=='1'
-        run: yarn build
+        run: npm run build
       - name: Deploy
         if: steps.shouldBuild.outputs.result=='1'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          force_orphan: true
+          force_orphan: false
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"

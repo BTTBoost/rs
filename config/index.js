@@ -8,7 +8,7 @@ const siteMetadata = {
   keywords: ["buzzing", "美股", "股票", "股市"],
   telegram: "@stocks_top",
   telegram_chat_id: " -1001246603580",
-  iconUrl: "https://news.buzzing.cc/avatar.png",
+  iconUrl: "https://stocks.buzzing.cc/avatar.png",
   menuLinks: [
     {
       name: "每周精选",

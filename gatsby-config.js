@@ -57,7 +57,6 @@ plugins = plugins.concat([
       disqus: {
         shortname: "stock-market",
       },
-      siteMetadata,
     },
   },
   {

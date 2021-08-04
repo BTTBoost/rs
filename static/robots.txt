@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://stocks.buzzing.cc/sitemap/sitemap-index.xml
-Host: https://stocks.buzzing.cc
+Sitemap: https://news.buzzing.cc/sitemap/sitemap-index.xml
+Host: https://news.buzzing.cc

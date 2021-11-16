@@ -1,9 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 16 Nov 2021 04:28:39 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[Here is a Market Recap for today Monday, Nov 15, 2021. Please enjoy!]]></title><description><![CDATA[PsychoMarket Recap - Monday, November 15, 2021
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 16 Nov 2021 05:02:18 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[从历史上看，在收市时投资比在开市时投资要好得多，大多数收益是在一夜之间发生的。]]></title><description><![CDATA[早在2018年就有一篇有趣的文章说
 
-Stocks finished mixed, with the Dow Jones (DIA) and tech-heavy Nasdaq (QQQ)
-closing modestly lower, as market participants digested upbeat economic data
-coming from China and await for a key report on retail sales in the US later
-this week. The Russell…]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/qushen/here_is_a_market_recap_for_today_monday_nov_15/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/qushen/here_is_a_market_recap_for_today_monday_nov_15/</guid><pubDate>Tue, 16 Nov 2021 03:51:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;PsychoMarket Recap - Monday, November 15, 2021&lt;/strong&gt;&lt;/p&gt;
+> 如果你在每个工作日交易的最后一秒钟买入SPY
+> 自1993年以来，并在第二天开市时卖出 - 捕获所有的净
+> 小时后的收益--你的累计价格收益将是571%。
+> 
+> 在另一方面...]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/quxd2t/historically_its_way_better_to_invest_at_market/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/quxd2t/historically_its_way_better_to_invest_at_market/</guid><pubDate>Tue, 16 Nov 2021 04:11:57 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There is an interesting article back from 2018 that says&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;If you had bought the SPY at the last second of trading on each business day since 1993 and sold at the market open the next day — capturing all of the net after-hour gains — your cumulative price gain would be 571%  &lt;/p&gt;
+
+&lt;p&gt;On the other hand, if you had done the reverse, buying the ETF at the first second of regular trading every morning at 9:30 a.m. and selling at the 4 p.m. close, you would be down 4.4%&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have backtested the same for 2020 and 2021, see the results below. Every day I was buying/selling just 1 share of $SPY.&lt;/p&gt;
+
+&lt;table&gt;&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Year&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Buy at open, sell at close&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Buy at close, sell at open&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;2020&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;-$4.88&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;$45.42&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;2021&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;-$38.05&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;$53.92&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;p&gt;Disclaimer: all calculations made using BreakingEquity&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[以下是2021年11月15日星期一的市场回顾。请欣赏!]]></title><description><![CDATA[心理市场回顾--2021年11月15日，星期一
+
+股市收盘时涨跌互现，道琼斯指数（DIA）和科技股密集的纳斯达克指数（QQQ）
+收盘小幅下跌，因为市场参与者消化了来自中国的乐观经济数据
+市场参与者消化了来自中国的乐观经济数据，并等待着稍后的美国零售销售的关键报告。
+本周晚些时候美国零售销售的关键报告。罗素指数...]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/qushen/here_is_a_market_recap_for_today_monday_nov_15/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/qushen/here_is_a_market_recap_for_today_monday_nov_15/</guid><pubDate>Tue, 16 Nov 2021 03:51:01 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;PsychoMarket Recap - Monday, November 15, 2021&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Stocks finished mixed, with the Dow Jones (DIA) and tech-heavy Nasdaq (QQQ) closing modestly lower, as market participants digested upbeat economic data coming from China and await for a key report on retail sales in the US later this week. The Russell 2000 (IWM), which tracks the performance of small-caps, underperformed on the day, closing 0.44% lower.&lt;/p&gt;
 
@@ -572,4 +608,4 @@ https://twitter.com/elonmusk/status/1457064697782489088
 &lt;p&gt;Anyhow, hope this question makes sense, just want to learn how to make quality investments. What kind of research I need to do beforehand would be helpful.&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[恒大。短篇小说]]></title><link>https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/qttn15/evergrande_a_short_story/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/qttn15/evergrande_a_short_story/</guid><pubDate>Sun, 14 Nov 2021 23:43:22 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我的妻子在挣钱方面令人难以置信，每年带来50万美元的收入。但她在商场里掉了1500美元，正在危及我们的退休生活。
 
-理财师，我应该怎么做？https://t.co/uYQ3Jg9Ta7]]></title><link>https://stocks.buzzing.cc/tweet/1459495597241769993</link><guid isPermaLink="false">https://stocks.buzzing.cc/tweet/1459495597241769993</guid><pubDate>Sun, 14 Nov 2021 22:37:31 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[暂时性的......🤔🤔🤔🤔。]]></title><link>https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/qtrokr/transitory_right/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/qtrokr/transitory_right/</guid><pubDate>Sun, 14 Nov 2021 21:56:03 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+理财师，我应该怎么做？https://t.co/uYQ3Jg9Ta7]]></title><link>https://stocks.buzzing.cc/tweet/1459495597241769993</link><guid isPermaLink="false">https://stocks.buzzing.cc/tweet/1459495597241769993</guid><pubDate>Sun, 14 Nov 2021 22:37:31 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>

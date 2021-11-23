@@ -1,9 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 23 Nov 2021 15:20:30 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[PYPL anyone?]]></title><description><![CDATA[As of yesterday, I thought this was nothing but an overreaction to that infamous
-downgrade. Now I’m not sure. It even makes me think shouldn’t they come up and
-try that PINS deal again.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 23 Nov 2021 15:59:36 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA["This paper has been going around investing subreddits and it is complete BS - here's why" (not OC)]]></title><description><![CDATA[NOTE: This was posted on r/stocks [/r/stocks] and other similar subreddits by a
+user that "may or may not be" banned from this sub (reason for ban not given). I
+commented that they should post this here and they gave me permission to do so.
+I have seen this paper referenced a number of times on this…]]></description><link>https://stocks.buzzing.cc/reddit/r/investing/comments/r0e4ie/this_paper_has_been_going_around_investing/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/investing/comments/r0e4ie/this_paper_has_been_going_around_investing/</guid><pubDate>Tue, 23 Nov 2021 15:27:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;NOTE: This was posted on &lt;a href=&quot;/r/stocks&quot;&gt;r/stocks&lt;/a&gt; and other similar subreddits by a user that &amp;quot;may or may not be&amp;quot; banned from this sub (reason for ban not given).  I commented that they should post this here and they gave me permission to do so.  I have seen this paper referenced a number of times on this sub so I&amp;#39;m curious to hear peoples&amp;#39; thoughts on this rebuttal.  I have no personal bias one way or the other, just curiosity.&lt;/p&gt;
 
-I think this stock, with all its challenges, belongs to the high 200$’s.
-Thoughts?]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/r0ayly/pypl_anyone/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/r0ayly/pypl_anyone/</guid><pubDate>Tue, 23 Nov 2021 14:48:11 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As of yesterday, I thought this was nothing but an overreaction to that infamous downgrade. Now I’m not sure. It even makes me think shouldn’t they come up and try that PINS deal again.&lt;/p&gt;
+&lt;p&gt;You may have seen this paper (&lt;a href=&quot;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741701&quot;&gt;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2741701&lt;/a&gt;) floating around various investment subreddits over the past week. It usually comes with the title How to 3x the S&amp;amp;P CAGR with less risk | Leverage for the Long Run with people praising it as an amazing new strategy that requires little effort, provides a high degree of safety, and allows you to experience only the good side of leveraged ETFs. Here&amp;#39;s why it&amp;#39;s complete bullshit.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve seen the 200 SMA argument posted hundreds of times before in &lt;a href=&quot;/r/LETFs&quot;&gt;r/LETFs&lt;/a&gt;. I&amp;#39;m glad this one at least comes with a paper, but the paper is still falling for the same mistakes other believers fall for. The author is correct that volatility increases below any significant moving average (20/50/100/200), however, avoiding volatility should not be your main concern when holding unhedged leveraged ETFs. Your main concern should be flash crashes like in 1987 where the market fell 22% in one day. The author says this:&lt;/p&gt;
+
+&lt;p&gt;Chart 6 shows that historically, the worst 1% of trading days have occurred far more often than not below the Moving Average. Included in this list are the two worst days in market history: October 19th in 1987 and October 28th in 1929&lt;/p&gt;
+
+&lt;p&gt;Wow look at that, moving averages helped avoid the worst two days... but why? The answer is partially due to the fact that both the best and worst days will be in periods of high volatility, but it&amp;#39;s also heavily influenced by pure chance. A day like Black Monday could happen at anytime and if there wasn&amp;#39;t a choppy market leading up to it you will miss it with moving averages. An unleveraged 22% drop would be a 66% drop for the portfolio suggested in the paper. The market would then likely dip below the 200 SMA and the person would sell! Missing the entire ride back up, even if there was more to fall you&amp;#39;re not going to be left in a good place.&lt;/p&gt;
+
+&lt;p&gt;There is no macroeconomic reason that moving averages have any form of predictive power. The closest thing would be the concept of a self fulfilling prophecy which would require a massive audience of believers to have an impact (there are not nearly enough). People always use 200 SMA, but if you try to test other SMAs nearby you sometimes get significantly worse results. The 200 SMA just happens to get you out before the Dot Com crash as well as the GFC. When your entire reasoning is based on well it did good in the past you&amp;#39;re overfitting by definition.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#39;s look at another strategy that has an economic backing - HFEA. Holding stocks and bonds together isn&amp;#39;t something that just happens to work when you test it. When stocks experience uncertainty large investors move their money into the safety of bonds which forces them in the opposite direction to the stock. Stocks and bonds are slightly, but not perfectly inversely correlated and both of them have positive expected returns. This is why they are the ideal hedge.&lt;/p&gt;
+
+&lt;p&gt;I also want to point out that this is not an academic paper that came from a university. It was published by &lt;a href=&quot;https://www.leadlagreport.com/&quot;&gt;https://www.leadlagreport.com/&lt;/a&gt; which says on its homepage &amp;quot;Consistently win in the stock market and minimize risk regardless of market conditions&amp;quot; followed by a subscribe button. This is called bullshit and I encourage anyone who cares about honesty to call it out when shit like this is posted.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[U.S. to release oil from reserves in coordination with other countries to lower gas prices]]></title><description><![CDATA[CNBC
+[https://www.cnbc.com/2021/11/23/biden-says-us-will-tap-strategic-petroleum-reserve-as-gas-prices-hover-around-7-hear-high.html]:
+
+ * "President Joe Biden said Tuesday that the administration will tap the
+   Strategic Petroleum Reserve as part of a global effort from energy-consuming
+   nations…]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/r0d01y/us_to_release_oil_from_reserves_in_coordination/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/r0d01y/us_to_release_oil_from_reserves_in_coordination/</guid><pubDate>Tue, 23 Nov 2021 15:27:26 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.cnbc.com/2021/11/23/biden-says-us-will-tap-strategic-petroleum-reserve-as-gas-prices-hover-around-7-hear-high.html&quot;&gt;CNBC&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;quot;President Joe Biden said Tuesday that the administration will tap the Strategic Petroleum Reserve as part of a global effort from energy-consuming nations to calm 2021′s rapid rise in fuel prices.&amp;quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&amp;quot;The coordinated release between the U.S., India, China, Japan, Republic of Korea and the United Kingdom is the first such move of its kind.&amp;quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&amp;quot;In total, the U.S. will release &lt;strong&gt;50 million barrels&lt;/strong&gt; from the SPR. Of the total 32 million barrels will be an exchange over the next several months, while 18 million barrels will be an acceleration of a previously authorized sale.&amp;quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&amp;quot;U.S. oil &lt;strong&gt;dipped 1.9%&lt;/strong&gt; to a session low of $75.30 per barrel following the announcement, before recovering some of those losses. The contract last traded 34 cents lower at $76.41. International benchmark Brent crude stood at $79.98 per barrel, for a gain of 34 cents.&amp;quot;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;https://www.barrons.com/articles/oil-prices-fall-on-bidens-decision-to-release-u-s-strategic-reserves-51637670056?mod=hp_LEAD_1&quot;&gt;Barron&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;quot;Shares in big oil companies were also down, with both Shell (ticker: RDSA.London) and BP ( BP.London) falling 0.8%, TotalEnergies (TTE.France) up 0.2%.&amp;quot;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&amp;quot;Shares of U.S. major oil companies were also sliding in pre-trading hours, with Exxon Mobil (XOM) declining by 0.3%. Chevron‘s (CVX) stock price was stable.&amp;quot;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Is this oil reserve gambit going to slow down inflation enough to keep the growth stocks in the green? Or was yesterday&amp;#39;s drop just the beginning?&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[PYPL任何人？]]></title><description><![CDATA[从昨天开始，我认为这只不过是对那个臭名昭著的降级的过度反应。
+降级。现在我不确定了。这甚至让我觉得他们是不是应该上来就
+再次尝试PINS的交易。
+
+我认为这只股票，尽管有所有的挑战，属于200美元的高价位。
+有什么想法？]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/r0ayly/pypl_anyone/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/r0ayly/pypl_anyone/</guid><pubDate>Tue, 23 Nov 2021 14:48:11 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As of yesterday, I thought this was nothing but an overreaction to that infamous downgrade. Now I’m not sure. It even makes me think shouldn’t they come up and try that PINS deal again.&lt;/p&gt;
 
 &lt;p&gt;I think this stock, with all its challenges, belongs to the high 200$’s. Thoughts?&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[福特的电动车游戏]]></title><link>https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r045e7/fords_ev_play/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r045e7/fords_ev_play/</guid><pubDate>Tue, 23 Nov 2021 14:35:28 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[GME档案。第二部分]]></title><link>https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r00yce/the_gme_files_take_two/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r00yce/the_gme_files_take_two/</guid><pubDate>Tue, 23 Nov 2021 13:31:21 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[这篇论文一直在投资子网站上流传，它完全是胡说八道--原因如下]]></title><description><![CDATA[你可能已经看到了这份文件
@@ -365,81 +405,4 @@ $AAPL $MSFT
 &lt;p&gt;On a one year time horizon, I’m currently up around 25% in AAPL, and close to 400% in NET. However, my dollar gains in both stocks are less than 10% apart. While I may not have exploded on AAPL, DCA’ing in over a year has allowed to me to net the same dollar gains as a bet on growth stock. Just something to consider for newer investors.&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[美联储的资产负债表上周再创新高，达到8.675万亿美元。
 
-图表通过@ycharts https://t.co/YaJbeDp0j7]]></title><link>https://stocks.buzzing.cc/tweet/1462775948110139403</link><guid isPermaLink="false">https://stocks.buzzing.cc/tweet/1462775948110139403</guid><pubDate>Mon, 22 Nov 2021 17:04:06 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[市值1150亿美元的Rivian旨在到2023年销售54,000辆电动汽车。市值为770亿美元的福特公司的目标是在2023年前销售60万辆。]]></title><description><![CDATA["截至2021年10月31日，我们在美国和加拿大有大约55,400份R1T和R1S的预购订单，这些客户都支付了可取消的和可接受的费用。
-我们在美国和加拿大有大约55,400个R1T和R1S的预购订单，这些客户各自支付了可取消和可完全退还的定金。
-他们每人支付了1000美元的可取消和可完全退还的定金。根据我们目前的生产预测，我们
-预计到2021年，我们将完成约55,400份积压的预购订单。]]></description><link>https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/qzftqa/115_billion_mkt_cap_rivian_aims_to_sell_54000_evs/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/qzftqa/115_billion_mkt_cap_rivian_aims_to_sell_54000_evs/</guid><pubDate>Mon, 22 Nov 2021 16:26:55 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&amp;quot;As of October 31, 2021, we had approximately 55,400 R1T and R1S preorders in the United States and Canada from customers who each paid a cancellable and fully refundable deposit of $1,000. Based on our current production forecast, we expect to fill our preorder backlog of approximately 55,400 by the end of 2023.&amp;quot; Rivian.&lt;/p&gt;
-
-&lt;p&gt;&amp;quot;We are now expecting to produce 600,000 electric vehicles per year globally by end of 2023.&amp;quot;. Ford.&lt;/p&gt;
-
-&lt;p&gt;Ford is already selling Mach-E&amp;#39;s and adding F150 Lightnings in volume next year (75K+ pre-orders already).  Oh it might just sell  5 million other vehicles a year at profit too (having made $5.7 billion net income YTD 3Q 2021, whilst Rivian revealed a $1 billion dollar loss in its IPO).  &lt;/p&gt;
-
-&lt;p&gt;Sorry but the figures speak for themselves. US EV start-ups are trading at absurd valuations vs existing legacy EV producers like Ford who are already in the market selling EV&amp;#39;s.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[拜登挑选杰罗姆-鲍威尔领导美联储的第二个任期，因为美国正在与科威德和通货膨胀作斗争]]></title><description><![CDATA[杰罗姆-鲍威尔(Jerome Powell)，他指导美联储和国家经济渡过了难关。
-他通过实施史无前例的货币刺激措施，引导美联储和国家经济度过惊人的、突然的Covid-19经济衰退。
-他通过实施史无前例的货币刺激政策，引导美联储和美国经济度过了惊人的、突如其来的衰退。
-担任美国中央银行主席。
-
-总统乔-拜登周一宣布了这一消息...]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/qzm7ni/biden_picks_jerome_powell_to_lead_the_fed_for_a/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/qzm7ni/biden_picks_jerome_powell_to_lead_the_fed_for_a/</guid><pubDate>Mon, 22 Nov 2021 15:20:29 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Jerome Powell, who guided the Federal Reserve and the nation’s economy through the staggering and sudden Covid-19 recession by implementing unprecedented monetary stimulus, has been nominated for a second term as chairman of the U.S. central bank.&lt;/p&gt;
-
-&lt;p&gt;President Joe Biden made the announcement Monday morning following weeks of speculation that a push from progressives might see Fed Governor Lael Brainard get the spot.&lt;/p&gt;
-
-&lt;p&gt;Brainard instead will be vice chair of the board of governors; she had been widely expected to get a separate vice chair for supervision post, which oversees the nation’s banking system. As vice chair, she would succeed Richard Clarida, whose term expires Jan. 31, 2022.&lt;/p&gt;
-
-&lt;p&gt;“As I’ve said before, we can’t just return to where we were before the pandemic, we need to build our economy back better, and I’m confident that Chair Powell and Dr. Brainard’s focus on keeping inflation low, prices stable, and delivering full employment will make our economy stronger than ever before,” Biden said in a statement.&lt;/p&gt;
-
-&lt;p&gt;The nominations next head to the Senate for confirmation.&lt;/p&gt;
-
-&lt;p&gt;In making the decision, Biden praised the Powell Fed for its “decisive” action in the early days of the pandemic.&lt;/p&gt;
-
-&lt;p&gt;The Fed rolled out an unprecedented array of lending programs while also cutting interest rates back to near zero and instituting a monthly bond-buying program that would increase the central bank’s holdings of Treasurys and mortgage-backed securities by more than $4 trillion.&lt;/p&gt;
-
-&lt;p&gt;“Chair Powell has provided steady leadership during an unprecedently challenging period, including the biggest economic downturn in modern history and attacks on the independence of the Federal Reserve,” a White House statement said. “During that time, Lael Brainard – one of our country’s leading macroeconomists – has played a key leadership role at the Federal Reserve, working with Powell to help power our country’s robust economic recovery.”&lt;/p&gt;
-
-&lt;p&gt;Though Powell carried the day, it was not without controversy.&lt;/p&gt;
-
-&lt;p&gt;The Fed has been under fire lately following an ethics scandal in which multiple officials engaged in trading stocks at a time when the institution was implementing policies aimed at boosting markets. Powell disclosed that he owned municipal bonds, which the Fed also was buying, and he also bought and sold funds tied to the broad stock market indexes.&lt;/p&gt;
-
-&lt;p&gt;At the same time, the Fed has been hit with inflation running faster than it had anticipated – in fact, at the sharpest pace in 30 years. Official Fed policy since September 2020 has been to let inflation run somewhat hotter than the standard 2% target if it allows for full and inclusive employment, but prices have been rising well above that level.&lt;/p&gt;
-
-&lt;p&gt;Powell has held to the line that inflation will cool off once factors associated with the pandemic return to normal. But the recent readings have raised questions about the so-called average inflation targeting that signaled a historic turn in central bank monetary policy.&lt;/p&gt;
-
-&lt;p&gt;The inflation also has come with a rapid economic recovery and a decline in the unemployment rate from a pandemic peak of 14.8% to its current 4.6%.&lt;/p&gt;
-
-&lt;p&gt;The White House statement said the recovery is “a testament to the success of the President’s economic agenda, and it is a testament to decisive action by Chair Powell and the Federal Reserve to cushion the impact of the pandemic and get America’s economy back on track.”&lt;/p&gt;
-
-&lt;p&gt;Brainard emerged as a key force in the race over who would carry the Fed through the next four years. She has taken point on several issues important to the Biden administration, particularly the need for the Fed to brace the banking system against disruptive climate change events.&lt;/p&gt;
-
-&lt;p&gt;A former undersecretary of the Treasury during the Obama administration, Brainard also has been a strong proponent of a digital dollar.&lt;/p&gt;
-
-&lt;p&gt;The White House statement stressed the importance of progressive for the Fed in the years to come.&lt;/p&gt;
-
-&lt;p&gt;Biden said that Powell and Brainard “also share my deep belief that urgent action is needed to address the economic risks posed by climate change, and stay ahead of emerging risks in our financial system.”&lt;/p&gt;
-
-&lt;p&gt;“Fundamentally, if we want to continue to build on the economic success of this year we need stability and independence at the Federal Reserve – and I have full confidence after their trial by fire over the last 20 months that Chair Powell and Dr. Brainard will provide the strong leadership our country needs,” he added.&lt;/p&gt;
-
-&lt;p&gt;Political pressure, and a Covid struggle
-President Donald Trump appointed Powell to the position in 2018 in somewhat of a surprise. Trump chose to pass over then-Chair Janet Yellen, an unusual move in that Fed leaders are rarely removed after just one term. Former President Barack Obama initially appointed Powell to a 14-year term as governor in 2014.&lt;/p&gt;
-
-&lt;p&gt;Though Trump nominated Powell, he later fired withering criticism at the Fed chief when the central bank raised interest rates seven times in 2017 and 2018. The former president went as far as to call the Fed policymakers “boneheads” for trying to normalize policy as the economy recovered.&lt;/p&gt;
-
-&lt;p&gt;As for Brainard, she is now widely expected to be named vice chair of supervision, a key Fed post to oversee the nation’s banking system.&lt;/p&gt;
-
-&lt;p&gt;The Fed is empowered by Congress to fulfill two mandates: Maximize U.S. employment and keep inflation stable. Its leaders, known as governors, are nominated by the president and vote on how to adjust interest rates, regulate the nation’s largest banks and monitor the health of the economy.&lt;/p&gt;
-
-&lt;p&gt;To combat the spike in unemployment and recession that began in the spring of 2020, the central bank slashed interest rates and began buying some $120 billion in Treasury bonds and mortgage-backed securities every month. It also instituted a variety of lending programs aimed at keeping fixed income markets functioning after they endured significant stress at the beginning of the pandemic.&lt;/p&gt;
-
-&lt;p&gt;Economists credit that quick and sizable response for stabilizing financial markets and later repressing long-term interest rates. Lower interest rates make it easier for corporations to take on loans to build new factories, or for individuals to buy homes or cars. &lt;/p&gt;
-
-&lt;p&gt;“Under Powell the Fed has placed more emphasis on having the economy operate at maximum employment,” Mike Feroli, chief U.S. economist at JPMorgan, said via email.&lt;/p&gt;
-
-&lt;p&gt;“This is a goal progressive economists have long advocated and a goal which is presumably consistent with Biden’s agenda.”  &lt;/p&gt;
-
-&lt;p&gt;Treasury Secretary Janet Yellen, one of Biden’s top economic advisors and a counselor on his Fed nominations, told CNBC earlier this month that she is happy with the Fed chief’s work. Yellen was the first woman to serve as the Fed’s chair and is the country’s first female Treasury secretary. &lt;/p&gt;
-
-&lt;p&gt;“I talked to him about candidates and advised him to pick somebody who is experienced and credible,” Yellen said. “I think that Chair Powell has certainly done a good job.” &lt;/p&gt;
-
-&lt;p&gt;Powell is also popular on Capitol Hill, where lawmakers on both sides of the aisle have praised his leadership and amiability since he took over for Yellen in February 2018. &lt;/p&gt;
-
-&lt;p&gt;The news is likely a disappointment to progressives including Sen. Elizabeth Warren, D-Mass., who said in September that the Fed’s role in relaxing banking regulations in recent years makes Powell a “dangerous man” and that she would oppose his renomination.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
+图表通过@ycharts https://t.co/YaJbeDp0j7]]></title><link>https://stocks.buzzing.cc/tweet/1462775948110139403</link><guid isPermaLink="false">https://stocks.buzzing.cc/tweet/1462775948110139403</guid><pubDate>Mon, 22 Nov 2021 17:04:06 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>

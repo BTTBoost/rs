@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 25 Nov 2021 01:45:06 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[除了应急基金外，我还保留了一个 "你的***"基金。明年我辞职时，我希望能有几个月的时间来搬家，恢复我的理智。钱不仅仅是用来应急的，它也是为了心理健康和自由。]]></title><link>https://stocks.buzzing.cc/reddit/r/Bogleheads/comments/r1hzt3/aside_from_an_emergency_fund_i_also_keep_a_f_you/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/Bogleheads/comments/r1hzt3/aside_from_an_emergency_fund_i_also_keep_a_f_you/</guid><pubDate>Thu, 25 Nov 2021 01:00:27 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我认为大辞典将加速推动自动化的发展。]]></title><description><![CDATA[几年前我听过一位经济学家的讲座，他说
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 25 Nov 2021 02:42:16 GMT</lastBuildDate><language><![CDATA[zh]]></language><item><title><![CDATA[用吉姆-克莱默的 "疯狂资金建议 "击败标普500指数]]></title><description><![CDATA[我从2016-04-18开始对吉姆-克莱默的疯狂金钱买入建议进行了回测
+
+市场统计
+
+ * 2021年标准普尔500指数的总回报。
+   * ~23%
+   * ~24.5%，红利再投资
+
+克莱默统计（自2021-01-04起）
+
+ * 2,096个买入建议
+ * 283个卖出建议
+ * 0个持有建议
+ *...]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/r1ilb2/beating_sp_500_with_jim_cramers_mad_money/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/r1ilb2/beating_sp_500_with_jim_cramers_mad_money/</guid><pubDate>Thu, 25 Nov 2021 02:04:58 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have backtested Jim Cramer&amp;#39;s Mad Money buy recommendations since 2016-04-18&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Market Stats&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Total S&amp;amp;P500 returns for 2021:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;~23%&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;~24.5%&lt;/strong&gt; with dividends reinvestment&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Cramer Stats (since 2021-01-04)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2,096 Buy recommendations&lt;/li&gt;
+&lt;li&gt;283 Sell recommendations&lt;/li&gt;
+&lt;li&gt;0 Hold recommendations&lt;/li&gt;
+&lt;li&gt;~11.5 average buy recommendations daily&lt;/li&gt;
+&lt;li&gt;Most recommended stock is $AAPL with 40 Buy recommendations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;---------------------------------------------------------------------------------------------------&lt;/p&gt;
+
+&lt;p&gt;For simplicity purpose I was buying whole number of shares within $1,000 in each strategy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strategy #1: buy next day (after the show) and sell EOD:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Total gain was $1907.38
+
+&lt;ul&gt;
+&lt;li&gt;Given the average # of buy recommendations ~$11,500 of capital needed per day&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;~16.59% total gain -&lt;/strong&gt; not bad but below S&amp;amp;500&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;#x200B;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strategy #2: buy next day (after the show), hold 5 days and sell EOD&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Total gain was $27,720.31
+
+&lt;ul&gt;
+&lt;li&gt;Given the average # of buy recommendations ~$57,500 of capital needed per day&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;48.2% total gain&lt;/strong&gt; - now we are talking business&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Disclaimer: all calculations made using &lt;a href=&quot;https://BreakingEquity.com&quot;&gt;BreakingEquity.com&lt;/a&gt; , Crammer&amp;#39;s data from &lt;a href=&quot;https://Thestreet.com&quot;&gt;Thestreet.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[除了应急基金外，我还保留了一个 "你的***"基金。明年我辞职时，我希望能有几个月的时间来搬家，恢复我的理智。钱不仅仅是用来应急的，它也是为了心理健康和自由。]]></title><link>https://stocks.buzzing.cc/reddit/r/Bogleheads/comments/r1hzt3/aside_from_an_emergency_fund_i_also_keep_a_f_you/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/Bogleheads/comments/r1hzt3/aside_from_an_emergency_fund_i_also_keep_a_f_you/</guid><pubDate>Thu, 25 Nov 2021 01:00:27 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[我认为大辞典将加速推动自动化的发展。]]></title><description><![CDATA[几年前我听过一位经济学家的讲座，他说
 他说，2020年代的主要主题是人类工作被机器人、人工智能等取代。
 等等。
 
@@ -615,4 +680,4 @@ $CHGG: -58%]]></title><link>https://stocks.buzzing.cc/tweet/1463253432589033476<
 &lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; $GGPI is taking Swedish EV auto maker Polestar public. The cars are sexy AF, and match up well with the Tesla Model 3 on both performance and price. Polestar has 29K cars on the road and $1.5B in  revenue in FY21, and still trades at a deep discount to other EV pure  plays.&lt;/p&gt;
 
 &lt;p&gt;Disclosure: Long $GGPI, shares + options + warrants.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[福特。我可以复制你的作业吗？特斯拉。是的，只要把它改变一下，就不会让人觉得你抄袭了福特。好的]]></title><link>https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r0nz2s/ford_can_i_copy_your_homework_tesla_yeah_just/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r0nz2s/ford_can_i_copy_your_homework_tesla_yeah_just/</guid><pubDate>Wed, 24 Nov 2021 01:45:46 GMT</pubDate><content:encoded></content:encoded></item></channel></rss>
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>

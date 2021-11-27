@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 27 Nov 2021 01:46:42 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[有沒有在新西蘭的Bogleheads？]]></title><description><![CDATA[與美國相比，新西蘭的投資和稅收情況略有不同。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 27 Nov 2021 03:15:49 GMT</lastBuildDate><language><![CDATA[zh-Hant]]></language><item><title><![CDATA[$PSFE Paysafe最近下跌了50%。反彈交易的好機會？]]></title><description><![CDATA[跌幅如此之大，似乎是因爲他們調整後的指引？這似乎是一個
+跌幅極大，而且低於分析師目標價的下限。它正在
+在日線圖上也出現了看漲的rsi背離。
+
+誰能告訴我股價在這裏發生了什麼？看起來像
+a...]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/r2r9dk/psfe_paysafe_down_50_recently_good_opportunity/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/r2r9dk/psfe_paysafe_down_50_recently_good_opportunity/</guid><pubDate>Sat, 27 Nov 2021 02:40:30 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Down so dramatically seemingly because of their adjusted guidance? Seems like an extreme drop and it&amp;#39;s below the lower band of analyst price targets. It&amp;#39;s putting in a bullish rsi divergence on the daily chart too. &lt;/p&gt;
+
+&lt;p&gt;Can someone fill me in on what&amp;#39;s going on with the stock price here? Looks like a good buying opportunity to me but I haven&amp;#39;t done much research yet. Hoping one of you has been looking into this and can shed some light. Thanks!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[因此，市場在一天內下跌了2%以上。我們能從中預測到什麼嗎？答案可能不會讓你喫驚（是 "不能"）。]]></title><description><![CDATA[因此，今天S&P500指數下跌了約2點左右，最終低於其ATH值約3%。
+當然，市場比其ATH值低3%並不值得一提，但是
+但它在一天內下降了兩個百分點的事實似乎引起了一些關注。
+引起了一些關注。
+
+因此，我想知道：市場上有多普遍的情況是...]]></description><link>https://stocks.buzzing.cc/reddit/r/investing/comments/r2xegl/so_the_market_dropped_by_more_than_2_in_a_day_can/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/investing/comments/r2xegl/so_the_market_dropped_by_more_than_2_in_a_day_can/</guid><pubDate>Sat, 27 Nov 2021 02:40:30 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So today S&amp;amp;P500 dropped about 2 point something%, ending about 3% below its ATH. Of course, the market being 3% under its ATH is nothing to write home about, but the fact that it dropped by two percentage points in a single day seemed to raise some concerns.  &lt;/p&gt;
+
+&lt;p&gt;So I wondered: how common is it for the market to drop by two percentage points or more in a single day, and does this tell us anything about its likely return after, say, 100 days (this is likely much shorter than the time horizon of many of us here, but longer periods would likely make the effect - if any - of the drop harder to notice)? &lt;/p&gt;
+
+&lt;p&gt;So I downloaded from yahoo finance  the daily S&amp;amp;P500 data for the 1994-2021 period and played around a little with it trying to see if any correlation could be found. &lt;/p&gt;
+
+&lt;p&gt;This graph shows the percentage change from the previous day versus the percentage return after 100 days: &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/FzScbjp&quot;&gt;One day fluctuations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Not seeing much of a correlation between one-day fluctuations and 100-days returns here. Also worth noting is that the days which saw a drop of 2% or more from the previous day were uncommon but not &lt;em&gt;that&lt;/em&gt; uncommon (I found 299 of them in 6998 days, that is, about one every 23 days). &lt;/p&gt;
+
+&lt;p&gt;I tried anyway to try to see if I could find a correlation, just for completeness&amp;#39; sake, and the result is what you would expect from that graph: &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/0Lt9SRt&quot;&gt;No correlation&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;If anything, it would seem that the change from the previous day might be slightly &lt;em&gt;negatively&lt;/em&gt; correlated to the 100-days return - i.e., great days might lead to poorer returns after 100 days - but the correlation coefficient is so low and the standard error so high that the only reasonable conclusion is that one-day changes are of no predictive value for 100-days returns. &lt;/p&gt;
+
+&lt;p&gt;But what about extremes? What if we consider only the &amp;quot;bad&amp;quot; days in which the market dropped by more than 2%? Here is what we get:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/6Pd1kN8&quot;&gt;Bad days&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Let us compare this with the (235 out of 6998) days in which the market rose by more than 2%: &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/q1Cl1eR&quot;&gt;Good days&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;About the same mean, slightly lower standard deviation but that&amp;#39;s too close to say anything meaningful. For completeness&amp;#39;s sake, I also looked at the &amp;quot;meh days&amp;quot; in which the market did not change by more than 2% in either direction from the previous day: for those days, the average return after 100 days was by 4% - more or less in line with the others - and the standard deviation was by by 0.09 -- lower than the others, but not enough that I&amp;#39;d be confident making any conclusions out of this. &lt;/p&gt;
+
+&lt;p&gt;In conclusion: the fact that the market dropped by more than 2% today tells us nothing meaningful about what it will do in the next 100 days. Is it possible that the market will crash soon? Sure, that is always possible; but today&amp;#39;s drop, in itself, tells us nothing about its chances.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[有沒有在新西蘭的Bogleheads？]]></title><description><![CDATA[與美國相比，新西蘭的投資和稅收情況略有不同。
 
 如果有人感興趣，我很想比較一下最好的方法。
 
@@ -420,14 +462,4 @@ Thank you all again for the lists, I will save them 100%%%&lt;/p&gt;
 &lt;p&gt;What tech/IT related sources you use to get information about these kind of stocks first?&lt;/p&gt;
 
 &lt;p&gt;Thank you in advance.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Wish在法國被屏蔽：95%的產品不符合歐盟法規。谷歌必須將其從搜索中刪除]]></title><link>https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r1yabs/wish_blocked_in_france_95_of_products_do_not/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r1yabs/wish_blocked_in_france_95_of_products_do_not/</guid><pubDate>Thu, 25 Nov 2021 21:13:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[回顧R/Stock用戶的預測]]></title><description><![CDATA[去年我發了一個帖子，告訴Reddit/股票用戶預測2021年表現最好的
-2021年表現最好的股票，答案非常有趣，可以說是
-至少可以這麼說。有很多特斯拉、阿里巴巴、Palantir、Cloudflare、Sea Limited。
-等。
-
-回顧過去，看看預測有多難，總是很有意思...]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/r21761/looking_back_at_rstock_users_predictions/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/r21761/looking_back_at_rstock_users_predictions/</guid><pubDate>Thu, 25 Nov 2021 20:25:00 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Last year I made a post telling Reddit/stock users to predict the best performing stock of 2021, and the answers were very interesting to say the least. There was a lot of Tesla, Alibaba, Palantir, Cloudflare, Sea Limited, etc. &lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s always interesting to look back and see how hard it is to predict things in the stock market. Alot of mentioned stocks are still down for the year. Oh and btw the reward will be given out early next year. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/stocks/comments/kgtgh6/predict_the_best_performing_stock_of_2021_and/&quot;&gt;Predict the best performing stock of 2021 and receive a reward. : stocks (reddit.com)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>

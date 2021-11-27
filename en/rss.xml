@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 27 Nov 2021 01:46:42 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[Any Bogleheads in New Zealand?]]></title><description><![CDATA[It is a slightly different investing and tax landscape in NZ compared to the US.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[国外股市热门]]></title><description><![CDATA[用中文浏览国外股票社区里的热门讨论]]></description><link>https://stocks.buzzing.cc</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 27 Nov 2021 03:15:49 GMT</lastBuildDate><language><![CDATA[en]]></language><item><title><![CDATA[$PSFE Paysafe down 50% recently. Good opportunity for bounce trade?]]></title><description><![CDATA[Down so dramatically seemingly because of their adjusted guidance? Seems like an
+extreme drop and it's below the lower band of analyst price targets. It's
+putting in a bullish rsi divergence on the daily chart too.
+
+Can someone fill me in on what's going on with the stock price here? Looks like
+a…]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/r2r9dk/psfe_paysafe_down_50_recently_good_opportunity/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/r2r9dk/psfe_paysafe_down_50_recently_good_opportunity/</guid><pubDate>Sat, 27 Nov 2021 02:40:30 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Down so dramatically seemingly because of their adjusted guidance? Seems like an extreme drop and it&amp;#39;s below the lower band of analyst price targets. It&amp;#39;s putting in a bullish rsi divergence on the daily chart too. &lt;/p&gt;
+
+&lt;p&gt;Can someone fill me in on what&amp;#39;s going on with the stock price here? Looks like a good buying opportunity to me but I haven&amp;#39;t done much research yet. Hoping one of you has been looking into this and can shed some light. Thanks!&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[So the market dropped by more than 2% in a day. Can we predict anything from that? The answer might not surprise you (it is "no").]]></title><description><![CDATA[So today S&P500 dropped about 2 point something%, ending about 3% below its ATH.
+Of course, the market being 3% under its ATH is nothing to write home about, but
+the fact that it dropped by two percentage points in a single day seemed to
+raise some concerns.
+
+So I wondered: how common is it for the…]]></description><link>https://stocks.buzzing.cc/reddit/r/investing/comments/r2xegl/so_the_market_dropped_by_more_than_2_in_a_day_can/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/investing/comments/r2xegl/so_the_market_dropped_by_more_than_2_in_a_day_can/</guid><pubDate>Sat, 27 Nov 2021 02:40:30 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So today S&amp;amp;P500 dropped about 2 point something%, ending about 3% below its ATH. Of course, the market being 3% under its ATH is nothing to write home about, but the fact that it dropped by two percentage points in a single day seemed to raise some concerns.  &lt;/p&gt;
+
+&lt;p&gt;So I wondered: how common is it for the market to drop by two percentage points or more in a single day, and does this tell us anything about its likely return after, say, 100 days (this is likely much shorter than the time horizon of many of us here, but longer periods would likely make the effect - if any - of the drop harder to notice)? &lt;/p&gt;
+
+&lt;p&gt;So I downloaded from yahoo finance  the daily S&amp;amp;P500 data for the 1994-2021 period and played around a little with it trying to see if any correlation could be found. &lt;/p&gt;
+
+&lt;p&gt;This graph shows the percentage change from the previous day versus the percentage return after 100 days: &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/FzScbjp&quot;&gt;One day fluctuations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Not seeing much of a correlation between one-day fluctuations and 100-days returns here. Also worth noting is that the days which saw a drop of 2% or more from the previous day were uncommon but not &lt;em&gt;that&lt;/em&gt; uncommon (I found 299 of them in 6998 days, that is, about one every 23 days). &lt;/p&gt;
+
+&lt;p&gt;I tried anyway to try to see if I could find a correlation, just for completeness&amp;#39; sake, and the result is what you would expect from that graph: &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/0Lt9SRt&quot;&gt;No correlation&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;If anything, it would seem that the change from the previous day might be slightly &lt;em&gt;negatively&lt;/em&gt; correlated to the 100-days return - i.e., great days might lead to poorer returns after 100 days - but the correlation coefficient is so low and the standard error so high that the only reasonable conclusion is that one-day changes are of no predictive value for 100-days returns. &lt;/p&gt;
+
+&lt;p&gt;But what about extremes? What if we consider only the &amp;quot;bad&amp;quot; days in which the market dropped by more than 2%? Here is what we get:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/6Pd1kN8&quot;&gt;Bad days&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;Let us compare this with the (235 out of 6998) days in which the market rose by more than 2%: &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgur.com/a/q1Cl1eR&quot;&gt;Good days&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;About the same mean, slightly lower standard deviation but that&amp;#39;s too close to say anything meaningful. For completeness&amp;#39;s sake, I also looked at the &amp;quot;meh days&amp;quot; in which the market did not change by more than 2% in either direction from the previous day: for those days, the average return after 100 days was by 4% - more or less in line with the others - and the standard deviation was by by 0.09 -- lower than the others, but not enough that I&amp;#39;d be confident making any conclusions out of this. &lt;/p&gt;
+
+&lt;p&gt;In conclusion: the fact that the market dropped by more than 2% today tells us nothing meaningful about what it will do in the next 100 days. Is it possible that the market will crash soon? Sure, that is always possible; but today&amp;#39;s drop, in itself, tells us nothing about its chances.&lt;/p&gt;
+&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Any Bogleheads in New Zealand?]]></title><description><![CDATA[It is a slightly different investing and tax landscape in NZ compared to the US.
 
 I’d be keen to compare notes on the best approach if anyone is interested.
 
@@ -420,14 +462,4 @@ Maybe one that is still a bit…]]></description><link>https://stocks.buzzing.cc
 &lt;p&gt;What tech/IT related sources you use to get information about these kind of stocks first?&lt;/p&gt;
 
 &lt;p&gt;Thank you in advance.&lt;/p&gt;
-&lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item><item><title><![CDATA[Wish blocked in France: 95% of products do not comply with EU legislation. Google must remove it from searches]]></title><link>https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r1yabs/wish_blocked_in_france_95_of_products_do_not/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/wallstreetbets/comments/r1yabs/wish_blocked_in_france_95_of_products_do_not/</guid><pubDate>Thu, 25 Nov 2021 21:13:07 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Looking back at R/Stock users predictions]]></title><description><![CDATA[Last year I made a post telling Reddit/stock users to predict the best
-performing stock of 2021, and the answers were very interesting to say the
-least. There was a lot of Tesla, Alibaba, Palantir, Cloudflare, Sea Limited,
-etc.
-
-It's always interesting to look back and see how hard it is to predict…]]></description><link>https://stocks.buzzing.cc/reddit/r/stocks/comments/r21761/looking_back_at_rstock_users_predictions/</link><guid isPermaLink="false">https://stocks.buzzing.cc/reddit/r/stocks/comments/r21761/looking_back_at_rstock_users_predictions/</guid><pubDate>Thu, 25 Nov 2021 20:25:00 GMT</pubDate><content:encoded>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Last year I made a post telling Reddit/stock users to predict the best performing stock of 2021, and the answers were very interesting to say the least. There was a lot of Tesla, Alibaba, Palantir, Cloudflare, Sea Limited, etc. &lt;/p&gt;
-
-&lt;p&gt;It&amp;#39;s always interesting to look back and see how hard it is to predict things in the stock market. Alot of mentioned stocks are still down for the year. Oh and btw the reward will be given out early next year. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/stocks/comments/kgtgh6/predict_the_best_performing_stock_of_2021_and/&quot;&gt;Predict the best performing stock of 2021 and receive a reward. : stocks (reddit.com)&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;!-- SC_ON --&gt;</content:encoded></item></channel></rss>
